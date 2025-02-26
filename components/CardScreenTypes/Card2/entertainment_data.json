@@ -1,0 +1,93 @@
+[
+  {
+    "u_id": 0,
+    "author": "by DOF Robotics",
+    "title": "Mission Space Digital Park",
+    "description": "DOF Robotics' digital park offers an immersive 30-40 minute space experience, where visitors, dressed as astronauts, complete missions in teams of six across eight specially designed simulators. Combining entertainment and education, the experience provides unique insights into space while allowing interactive competition.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/3DNeQYYq54Qoc81hBb7nlL1965dokQd6nip94kPW.jpg"
+  },
+  {
+    "u_id": 1,
+    "author": "by DOF Robotics",
+    "title": "Nautilus",
+    "description": "Submarine Discover Center(SDC) starting a special mission to unravel the secrets of the hidden deep life. Plunge into the unknown and discover ocean full of hidden treasure. Let's join Nautilus for a thrilling journey  and face your destiny.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/beSDbOulByu5MuVWXs2xXXMJQn2H3Ethhr5BOTOr.jpg"
+  },
+  {
+    "u_id": 2,
+    "author": "by DOF Robotics",
+    "title": "Monster Jam",
+    "description": "The Monster Jam simulator, developed in collaboration with Monster Jam, is a dynamic 6 DOF motion simulator with VR headsets, wind effects, and rotating wheels, offering an immersive truck racing experience. Designed for indoor entertainment venues, it features high safety seating, powerful Siemens servomotors, and synchronized electromechanical technology.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/bAHnlRKb4p2ZLPXmgwkOjxnCNSaESNtU2UQ6n8lj.jpg"
+  },
+  {
+    "u_id": 3,
+    "author": "by DOF Robotics",
+    "title": "Hurricane",
+    "description": "Hurricane 360, DOF's latest 7DOF ride, features a 6-axis motion system with 360-degree rotation, offering an immersive experience with VR, Dome, or Flat Screen options. Equipped with regenerative servomotors, special effects, and high-quality sound systems, it delivers thrilling experiences with advanced synchronization and safety features.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/MB59v6SeQjgqoy7eIp5194YgtcTNLntwMVV3Gx0T.jpg"
+  },
+  {
+    "u_id": 4,
+    "author": "by DOF Robotics",
+    "title": "Supernova",
+    "description": "Supernova is a versatile 6DOF Hexapod ride with 4-8 seats, offering an immersive simulation experience with VR or 3D projection options. Featuring regenerative servomotors, special effects, and advanced synchronization technology, it delivers realistic motion and audio-visual experiences with customizable configurations.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/Fwl2o1L5YpinWHgCjOJ7jMIo6zyTCweFRAMDmM55.jpg"
+  },
+  {
+    "u_id": 5,
+    "author": "by DOF Robotics",
+    "title": "Defender",
+    "description": "Defender: Light of Hope is a 4-player interactive VR game where players defend their territory from aliens using guns, motion technology, and special effects like water and wind. Powered by a 6DOF Hexapod robot with Siemens Simotion control, it delivers an immersive first-person experience with realistic motion and sound effects.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/GNmdJIU8KY6UrovggXKKFQ0xfg95oLDWyfM0c9en.jpg"
+  },
+  {
+    "u_id": 6,
+    "author": "by DOF Robotics",
+    "title": "Flying Theataer L",
+    "description": "The Flying Theater LS offers an immersive VR experience using 2DOF suspended seats with an option for 6DOF, combined with a large dome screen and special effects like water and smell. Its compact lifting system allows flexible installation in various locations, delivering a thrilling flying experience in a smaller space.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/lxTmXXwxb2YinjbC3od34a4Kj2wqx1rSzxyaKddX.jpg"
+  },
+  {
+    "u_id": 7,
+    "author": "by DOF Robotics",
+    "title": "Flying Theataer M",
+    "description": "The Flying Theater MLP is a large-scale, 7DOF attraction with seating for up to 90 passengers, offering an immersive experience with high-quality motion simulation and VR on a massive domed screen. It features advanced synchronization, special effects like wind and water, and high safety standards, making it ideal for high-capacity entertainment venues.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/ttacDDzVphnQCO90cLKmEIqTbbnLPdItQ83qNyKj.jpg"
+  },
+  {
+    "u_id": 8,
+    "author": "by DOF Robotics",
+    "title": "XD Theater",
+    "description": "DOF Robotics' massive XD theaters offer over 150 seats with 6DOF motion simulators, perfectly synchronized with high-quality flat, curved, or dome screens for an immersive experience. Ideal for FECs, shopping centers, and theme parks, these theaters place the audience at the heart of the story for thrilling entertainment.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/88OCeZcR9new6SXWNgzRytdNtxGw1ZQv2UlSeJWD.jpg"
+  },
+  {
+    "u_id": 9,
+    "author": "by DOF Robotics",
+    "title": "Riot",
+    "description": "The RIOT model is a customizable 6DOF Hexapod motion simulator with seating options from 4 to 250, offering immersive VR or 3D experiences with special effects like water, fog, and snow. Powered by Siemens regenerative servomotors and Simotion control units, it delivers high-quality motion synchronization and can be tailored to fit any entertainment space.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/6bmpsPtDq8UttPmDGWjiGaEi6b3jPalAvKHWYyU6.jpg"
+  },
+  {
+    "u_id": 10,
+    "author": "by DOF Robotics",
+    "title": "Riot 360",
+    "description": "The RIOT 360 model is a 6DOF Hexapod motion simulator with 360-degree rotation, customizable seating from 4 to 250, and immersive VR or 3D experiences. Equipped with Siemens regenerative servomotors and Simotion control units, it delivers synchronized motion with special effects like water, fog, and snow for an unparalleled entertainment experience.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/cwD1BbFuYgEAK9VDntbqrXhQTGq4cKogKPU8FroC.jpg"
+  },
+  {
+    "u_id": 11,
+    "author": "by DOF Robotics",
+    "title": "Atlantis",
+    "description": "ATLANTIS Xd is a 2DOF XD Cinema platform designed for longer-duration content, with seating capacities ranging from 4 to 500. Featuring 3D projection or VR, special effects like water and fog, and Siemens regenerative servomotors, it delivers an immersive cinematic experience with advanced motion synchronization and high-quality sound system",
+    "imageUrl": "https://dofrobotics.com/storage/photos/iCDlHlfzVsfiY6921N0bM8PpsBLYNnJOtueUbV0K.jpg"
+  },
+  {
+    "u_id": 12,
+    "author": "by DOF Robotics",
+    "title": "Dark Ride",
+    "description": "The 2019 model 6DOF Hexapod robot-powered Dark Ride system features a Siemens Simotion control unit, 150 meters of ride path, and 3D HD display with active shutter glasses, enhanced by special effects like water, rain, fog, and more. It also comes with spare pistons, cable sets, and other spare parts for reliable operation.",
+    "imageUrl": "https://dofrobotics.com/storage/photos/MLL7lAruUTHIvhd0hJH8T6YChUuSrA5dxYxRl5gs.png"
+  }
+]

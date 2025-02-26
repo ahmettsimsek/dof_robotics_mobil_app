@@ -1,0 +1,122 @@
+[
+  {
+    "u_id": 0,
+    "name": "Mustafa Mertcan",
+    "description": "President",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/q6EfHJvbyUFj3owDbd9yXALToN5J0nD5YKJfyAJk.webp"
+  },
+  {
+    "u_id": 1,
+    "name": "Flat Bakıt Baydaliev",
+    "description": "CEO",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/JqRdkVBWabRN2IWe4e0Ub1gXq2UcBHcgulgI48Cm.webp"
+  },
+  {
+    "u_id": 2,
+    "name": "Sam Rhodes",
+    "description": "President of North America",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/XsfOn5wsIlyIvzcMzun6WjOsI9GNgZaGcCvwD9SR.webp"
+  },
+  {
+    "u_id": 3,
+    "name": "Burak Sar",
+    "description": "CCO",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/P9uYXpqRAL0cHZ9EgaP3jsYBoQbH3fopSmiYAcK5.webp"
+  },
+  {
+    "u_id": 4,
+    "name": "Mustafa Kazanbaş",
+    "description": "Chief Technology Officer",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/LMRJRpji4bx34DplNlLdNUsnLx9E02UmfR5QmFDG.webp"
+  },
+  {
+    "u_id": 5,
+    "name": "Özgür Küçükateş",
+    "description": "Sales & Marketing Director",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/kWRyT3qKgIlyn75srBOI3294MC0ycOKQOsvZLdGv.webp"
+  },
+  {
+    "u_id": 6,
+    "name": "Berkan Seyfullah Deva",
+    "description": "Director of APAC",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/VPDeCWn57rbg7cj8Dxpxd059wbEOg1SBoPYjXIUt.webp"
+  },
+  {
+    "u_id": 7,
+    "name": "Harun Mertcan",
+    "description": "Regional Sales Manager | Eastern Europe",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/bL57mEL1ORS4lkOopqA2J9dOX6VmlqQMBSAaT37s.webp"
+  },
+  {
+    "u_id": 8,
+    "name": "Karen Lee",
+    "description": "Regional Sales Manager | APAC",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/0uAN6P2Pjr4GCQkusQEluPefC91rw5ZRlHOXI5xq.webp"
+  },
+  {
+    "u_id": 9,
+    "name": "Emre Ozer",
+    "description": "Regional Sales Manager | Central & South America",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/iq5dUzoB60687qfGTJ5EKTfQNUznYIukHYO9qi2i.webp"
+  },
+  {
+    "u_id": 10,
+    "name": "Ertunc Can",
+    "description": "Regional Sales Manager | AU & NZ",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/lfN4WzbYS3uwadijbXDIu5YNmBajucQm6MbBGDQn.webp"
+  },
+  {
+    "u_id": 11,
+    "name": "Müge Gülağalar",
+    "description": "Senior Marketing Specialist",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/jyvAMH6MPResyUzTBQSXiHCHUVANZzY9hrLzdX7h.webp"
+  },
+  {
+    "u_id": 12,
+    "name": "Batuhan Erdogan",
+    "description": "Sales & Marketing Specialist",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/r8yYy0psBTEV0raLmYaUaA6OGQwHJ5qe9trpvqat.webp"
+  },
+  {
+    "u_id": 13,
+    "name": "Burak Haciosmanoğlu",
+    "description": "Research & Development Director",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/XS5lV4JpWH1IxwlNlH0XtmQOFKQkRZkO8RBQl2Fh.webp"
+  },
+  {
+    "u_id": 14,
+    "name": "Nicolas Verhelst",
+    "description": "Animation & Game Development Director",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/cnZKpXo6OwrzHaYaWdvDg0PcPyRBYIzKz3hFUtZH.webp"
+  },
+  {
+    "u_id": 15,
+    "name": "Nazlıcan Arslan",
+    "description": "Operation & Supply Chain Director",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/DxRw34Ab9DcKKeVg72yUVYeec9OfOAP3P0aN5NlK.webp"
+  },
+  {
+    "u_id": 16,
+    "name": "Cihan Karataş",
+    "description": "Creative Design Director",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/jE2IYPCSf6ImPILtv4YftI4wJ19fgaA6RlDypern.webp"
+  },
+  {
+    "u_id": 17,
+    "name": "Faruk Bayraktar",
+    "description": "Director of Accounting & Finance",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/q24JWDKMihPaO6b6hV44YmOQn7vEQLbT3vSH0xW9.webp"
+  },
+  {
+    "u_id": 18,
+    "name": "Muhammet Mildan",
+    "description": "Electric & Electronic Automation Executive",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/J7NOILn3MksTNdVYfLnXQBQnWaKzcUsCCedusrGU.webp"
+  },
+  {
+    "u_id": 19,
+    "name": "Israfil Guzel",
+    "description": "Production Manager",
+    "imageUrl": "https://dofrobotics.com/storage/thumbnails/avatars/444gRPBFymekrvD6vI92gmVyc6tv5og25ruYKbT3.webp"
+  }
+]

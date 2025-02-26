@@ -1,0 +1,27 @@
+[ 
+  {  
+    "id": 0,
+    "imageUrl": "https://dofrobotics.com/assets/icons/addictive-rides.webp",
+    "title": "Addictive Rides",
+    "description": "We produce highly addictive attractions. A combination of extreme fun and adventure."
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://dofrobotics.com/assets/icons/safety.webp",
+     "title": "Safety",
+    "description": "We deal with reputable suppliers and partners to produce high quality and safe simulators to the market."
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://dofrobotics.com/assets/icons/roi.webp",
+     "title": "Fast ROI",
+    "description": "Get back your money just in few months. Our attractions are a real profit-making investment."
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://dofrobotics.com/assets/icons/warranty.webp ",
+     "title": "Warranty",
+    "description": "DOF offers not only a one-year spare parts and maintenance warranty but also a lifetime remote control and online services."
+  }
+  
+]
