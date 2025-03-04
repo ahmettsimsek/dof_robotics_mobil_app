@@ -1,0 +1,79 @@
+[
+  {
+    "u_id": 0,
+
+    "imageUrl": "https://files.oaiusercontent.com/file-6RE872ZRH9jvusxtsyuRcY?se=2025-02-28T12%3A26%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=DZI45MS0S1AGcOnhtTOmnfnV0X%2Bwww7riaDjyM0XsGY%3D"
+  },
+  {
+    "u_id": 1,
+    "name": "Flat Bakıt Baydaliev",
+    "description": "CEO",
+    "imageUrl": "https://files.oaiusercontent.com/file-YDGgtgwmj4REyKtUsLSxkd?se=2025-02-28T12%3A30%3A57Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=gEJSE0vmu8g2pPxNKpLNkU/O78RfhoO8QQEjVphe2Uc%3D"
+  },
+  {
+    "u_id": 2,
+    "name": "Sam Rhodes",
+    "description": "President of North America",
+    "imageUrl": "https://files.oaiusercontent.com/file-H9Z3yLd3UhefM3MiTQzwYK?se=2025-02-28T12%3A32%3A12Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=uH1LfHIxfltKBxat/pOI9pUKpEPU5MOpTpZK/q3xUHw%3D"
+  },
+  {
+    "u_id": 3,
+    "name": "Burak Sar",
+    "description": "CCO",
+    "imageUrl": "https://files.oaiusercontent.com/file-D9HMWVYYiCs4aYRvxHuVik?se=2025-02-28T12%3A32%3A57Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=nXDy50Jjpa3e5rvcuR3lHLP10TOxpPjwDM8UqZJUtos%3D"
+  },
+  {
+    "u_id": 4,
+    "name": "Mustafa Kazanbaş",
+    "description": "Chief Technology Officer",
+    "imageUrl": "https://files.oaiusercontent.com/file-7Pa47Cjqk6wmA3boMs9ero?se=2025-02-28T12%3A33%3A45Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=6lB%2B15R3ckRdF4l3CPE3RXobRpX1reMb5NoDsIX/xT4%3D"
+  },
+  {
+    "u_id": 5,
+    "name": "Özgür Küçükateş",
+    "description": "Sales & Marketing Director",
+    "imageUrl": "https://files.oaiusercontent.com/file-3aKMkhnM2nG2jfVNqXDmni?se=2025-02-28T12%3A34%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=63SMuLS/Q0aqMJ9xaHyj1RqvVRih979rK9pSWscP/dQ%3D"
+  },
+  {
+    "u_id": 6,
+    "name": "Berkan Seyfullah Deva",
+    "description": "Director of APAC",
+    "imageUrl": "https://files.oaiusercontent.com/file-CsTibpXozUD94uTs2FNtjB?se=2025-02-28T12%3A35%3A21Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=dFJygGM3g5X0fYQKokgWOLkZ1/n1qr8iRX%2BLLaoVtXw%3D"
+  },
+  {
+    "u_id": 7,
+    "name": "Harun Mertcan",
+    "description": "Regional Sales Manager | Eastern Europe",
+    "imageUrl": "https://files.oaiusercontent.com/file-3SKEQPLtsfDZVHRMVRXiAG?se=2025-02-28T12%3A36%3A13Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=vesRL2od6fWP40g6sMMla/E%2Bz6iEscOuBMJhmQAZw3w%3D"
+  },
+  {
+    "u_id": 8,
+    "name": "Karen Lee",
+    "description": "Regional Sales Manager | APAC",
+    "imageUrl": "https://files.oaiusercontent.com/file-Cp6RagcMmncbuW13phQHfi?se=2025-02-28T12%3A37%3A19Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=eLwzE75K8wONbQ2hO4w1Ui1z8tI5B/wRhUrk4LhETa8%3D"
+  },
+  {
+    "u_id": 9,
+    "name": "Emre Ozer",
+    "description": "Regional Sales Manager | Central & South America",
+    "imageUrl": "https://files.oaiusercontent.com/file-UAfnXfYyntJExWLfAffYWC?se=2025-02-28T12%3A39%3A46Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=fj%2BIttU9ESQtMl7nHcwFfZZx1nT6zLoBWKveDzg4WA0%3D"
+  },
+  {
+    "u_id": 10,
+    "name": "Ertunc Can",
+    "description": "Regional Sales Manager | AU & NZ",
+    "imageUrl": "https://files.oaiusercontent.com/file-DvF2qinp7FiDQ6HBNoeXka?se=2025-02-28T12%3A40%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=jLnA1VQ3iJDS4ZyOHoSjxP5Amws388B/nNzGwrJQCXA%3D"
+  },
+  {
+    "u_id": 11,
+    "name": "Müge Gülağalar",
+    "description": "Senior Marketing Specialist",
+    "imageUrl": "https://files.oaiusercontent.com/file-CbB9kEuZgWXTZ3zzoWTgzr?se=2025-02-28T12%3A40%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=tRnqrx4qzfQRbedYtGESr3zbUHR8OvphnYiGE0/%2B11A%3D"
+  },
+  {
+    "u_id": 12,
+    "name": "Batuhan Erdogan",
+    "description": "Sales & Marketing Specialist",
+    "imageUrl": "https://files.oaiusercontent.com/file-Q1qhQ7qJNEsJHmdpqbvn1C?se=2025-02-28T12%3A41%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dimage.png&sig=dOVAM%2BZOzGBQznH%2BWKZd6h9zwQsF20/wdGwOeEKCniM%3D"
+  }
+]
