@@ -1,5 +1,3 @@
-import React from 'react';
-import { View, Text } from 'react-native';
 import React, { useRef, useEffect } from 'react';
 import { View, Text, SafeAreaView, StyleSheet, Image, ScrollView, Dimensions } from 'react-native';
 
@@ -57,8 +55,8 @@ function Oduller() {
         />
       </View>
 
-      <View style = {styles.view2}>
-        <Text style = {styles.text3}>Yakından bakın</Text>
+      <View style={styles.view2}>
+        <Text style={styles.text3}>Yakından bakın</Text>
       </View>
 
       {/* Otomatik kayan resimler */}
@@ -113,14 +111,14 @@ const styles = StyleSheet.create({
   },
   view2: {
     alignItems: 'center',
-    marginTop: 50
+    marginTop: 50,
   },
   text3: {
     color: 'black',
     textAlign: 'center',
     fontWeight: 'bold',
-    fontSize: 23
-  }
+    fontSize: 23,
+  },
 });
 
 export default Oduller;
