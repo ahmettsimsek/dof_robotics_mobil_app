@@ -12,6 +12,8 @@ import FlatMoviesScreen from './screens/ScreenTypes/FlatMoviesScreen';
 import VRmoviesScreen from './screens/ScreenTypes/VRmoviesScreen';
 import DomeMoviesScreen from './screens/ScreenTypes/DomeMoviesScreen';
 import InnovationScreen from './screens/ScreenTypes/InnovationScreen';
+import 'react-native-reanimated';
+
 
 //ENTERTAİNMENT MOVİES SCREEN
 import AtlantisScreen from './screens/SpecialScreensEntertainment/AtlantisScreen';
