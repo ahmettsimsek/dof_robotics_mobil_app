@@ -1,47 +1,66 @@
 import React from 'react';
-import { View, Text, StyleSheet, FlatList, Image } from 'react-native';
+import { View, Text, StyleSheet, FlatList, Image, SafeAreaView, ScrollView } from 'react-native';
 
-const imageData = [
-  { id: '1', imageUrl: require('../assets/image/image1.png'), title: 'Mustafa Mertcan' }, // Yerel resim
-  { id: '2', imageUrl: require('../assets/image/image2.png'), title: 'Burak Haciosmanoğlu' }, // İnternet resmi
-  { id: '3', imageUrl: require('../assets/image/image3.png'), title: 'Bakıt Baydaliev' },
-];
 
 export default function Support() {
   return (
-    <FlatList
-      data={imageData}
-      keyExtractor={item => item.id}
-      renderItem={({ item }) => (
-        <View style={styles.itemContainer}>
-          {/* Yerel dosya için require, URL için uri kullanıyoruz */}
-          <Image
-            source={typeof item.imageUrl === 'string' && item.imageUrl.startsWith('http') ? { uri: item.imageUrl } : item.imageUrl}
-            style={styles.image}
-          />
-          <Text style={styles.title}>{item.title}</Text>
+    <SafeAreaView style={styles.container}>
+      <Text style={styles.textContainer}>ROI</Text>
+      <ScrollView>
+        <Image
+          source={{uri: "https://old.dofrobotics.com/img/home/iMac.png"}}
+          style = {styles.resim}
+        />
+        <View style ={ styles.yazi1} >
+        <Text style ={ styles.yazi} >Earn with us</Text>
         </View>
-      )}
-    />
+
+        <View  style ={ styles.yazi1}>
+        <Text style ={ styles.yazi2} >Return on investment</Text>
+        </View>
+
+        <View  style ={ styles.yazi1}>
+        <Text style ={ styles.yazi3} >DOF provides various types of Entertainment simulators that you can earn money with it. Fill the form below and start calculating your estimated return of investment.
+        </Text>
+        </View>
+
+        
+      </ScrollView>
+   </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  itemContainer: {
- 
-    marginBottom: 20,
-    alignItems: 'center',
+  resim:{
+    width: 450,
+    height: 450,
+    marginTop: 15
   },
-  image: {
-    marginTop: 50,
-    width: 350,
-    height: 230,
-    borderRadius: 100,
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
   },
-  title: {
-    marginTop: 10,
-    fontSize: 18,
-    fontWeight: 'bold',
+  textContainer: {
+    color: 'black',
     textAlign: 'center',
+    fontWeight: 'bold',
+    padding: 25,
+    paddingTop: 20,
+    fontSize: 22,
+    backgroundColor: '#dcdcdc',
   },
+  yazi: {
+    fontSize: 40
+  },
+  yazi2: {
+    fontSize: 25
+  },
+  yazi3: {
+    fontSize: 15
+  },
+  yazi1: {
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
+ 
 });

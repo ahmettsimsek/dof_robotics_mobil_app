@@ -23,12 +23,10 @@ export default function DrawerNavigator() {
         } else if (route.name === 'Hakkımızda') {
           iconName = focused ? 'information-circle' : 'information-circle-outline';
         } else if (route.name === 'Ürünler') {
-          iconName = focused ? 'cube' : 'cube-outline';
-        } else if (route.name === 'Hizmetler') {
           iconName = focused ? 'briefcase' : 'briefcase-outline';
         } else if (route.name === 'İletişim') {
           iconName = focused ? 'mail' : 'mail-outline';
-        } else if (route.name === 'Destek') {
+        } else if (route.name === 'ROI') {
           iconName = focused ? 'help' : 'help-outline';
         } else if (route.name === 'Hesap Ayarları') {
           iconName = focused ? 'settings' : 'settings-outline';
@@ -46,10 +44,9 @@ export default function DrawerNavigator() {
     >
       <Drawer.Screen name="Ana Sayfa" component={Dashboard} />
       <Drawer.Screen name="Hakkımızda" component={AboutScreen} />
-      <Drawer.Screen name="Ürünler" component={Products} />
-      <Drawer.Screen name="Hizmetler" component={Services} />
+      <Drawer.Screen name="Ürünler" component={Services} />
       <Drawer.Screen name="İletişim" component={Contact} />
-      <Drawer.Screen name="Destek" component={Support} />
+      <Drawer.Screen name="ROI" component={Support} />
       <Drawer.Screen name="Hesap Ayarları" component={Settings} />
 
 
