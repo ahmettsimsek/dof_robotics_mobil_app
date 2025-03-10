@@ -20,7 +20,10 @@ export default function Support() {
         </View>
 
         <View  style ={ styles.yazi1}>
-        <Text style ={ styles.yazi3} >DOF provides various types of Entertainment simulators that you can earn money with it. Fill the form below and start calculating your estimated return of investment.
+        <Text style ={ styles.yazi3} >DOF provides various types of 
+          Entertainment simulators that you can earn money with it. 
+          Fill the form below and start calculating your estimated
+           return of investment.
         </Text>
         </View>
 
