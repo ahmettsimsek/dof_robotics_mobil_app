@@ -16,8 +16,133 @@ This mobile app was developed using **React Native CLI** (not Expo) and built/te
 - **Android Studio** with Android SDK and emulator
 - **React Native CLI** (not Expo)
 
-```bash
+```
 npm install -g react-native-cli
+```
+
+📁 Project Initialization
+Create a new React Native project:
+
+```
+npx react-native init STAJGOSTERIM
+cd STAJGOSTERIM
+```
+
+⚙️ Running on Android Emulator
+Open Android Studio and start an Android Virtual Device (AVD).
+
+In the terminal:
+
+```
+npx react-native run-android
+```
+Note: Make sure adb is in your system path and emulator is running.
+
+📦 Packages Used
+🧭 React Navigation (Stack & Drawer)
+```
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install react-native-gesture-handler react-native-reanimated
+npm install @react-navigation/native-stack
+npm install @react-navigation/drawer
+```
+
+Reanimated setup:
+Add this at the top of index.js:
+```
+import 'react-native-gesture-handler';
+```
+
+Then enable Reanimated plugin in babel.config.js:
+```
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: ['react-native-reanimated/plugin'],
+};
+```
+
+🎬 YouTube Embed
+```
+npm install react-native-youtube-iframe
+```
+ -  Use for embedding videos in detail screens:
+```
+import YoutubePlayer from "react-native-youtube-iframe";
+
+<YoutubePlayer height={200} play={false} videoId={"VIDEO_ID"} />
+```
+
+🗺️ MapView Integration
+```
+npm install react-native-maps
+```
+
+ - Display office locations on map:
+```     
+<MapView
+  initialRegion={{
+    latitude: 41.015137,
+    longitude: 28.979530,
+    latitudeDelta: 0.0922,
+    longitudeDelta: 0.0421,
+  }}
+  style={{ flex: 1 }}
+>
+  <Marker coordinate={{ latitude: 41.015137, longitude: 28.979530 }} />
+</MapView>
+```
+
+
+
+🖼️ Image Zoom & Viewer
+```
+npm install react-native-image-viewing
+```
+- Use this for product image gallery with zoom:
+
+```
+import ImageViewing from "react-native-image-viewing";
+
+<ImageViewing
+  images={[{ uri: 'https://example.com/image1.jpg' }]}
+  imageIndex={0}
+  visible={visible}
+  onRequestClose={() => setVisible(false)}
+/>
+```
+
+🧪 Running the App
+Start Metro Server
+```
+npx react-native start
+```
+
+Launch on Emulator or Physical Device
+```
+npx react-native run-android
+```
+
+🧠 Developer Notes
+* All navigation flows are controlled by Stack.Navigator and Drawer.Navigator.
+
+* All screens are responsive and use ScrollView or FlatList for data rendering.
+
+* Emulators tested: Pixel 6 API 33 & API 30.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 📅 Weekly Progress Overview
