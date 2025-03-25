@@ -20,7 +20,7 @@ This mobile app was developed using **React Native CLI** (not Expo) and built/te
 npm install -g react-native-cli
 ```
 
-📁 Project Initialization
+### 📁 Project Initialization
 Create a new React Native project:
 
 ```
@@ -28,7 +28,7 @@ npx react-native init STAJGOSTERIM
 cd STAJGOSTERIM
 ```
 
-⚙️ Running on Android Emulator
+### ⚙️ Running on Android Emulator
 Open Android Studio and start an Android Virtual Device (AVD).
 
 In the terminal:
@@ -38,7 +38,7 @@ npx react-native run-android
 ```
 Note: Make sure adb is in your system path and emulator is running.
 
-📦 Packages Used
+### 📦 Packages Used
 🧭 React Navigation (Stack & Drawer)
 ```
 npm install @react-navigation/native
@@ -62,7 +62,7 @@ module.exports = {
 };
 ```
 
-🎬 YouTube Embed
+### 🎬 YouTube Embed
 ```
 npm install react-native-youtube-iframe
 ```
@@ -73,7 +73,7 @@ import YoutubePlayer from "react-native-youtube-iframe";
 <YoutubePlayer height={200} play={false} videoId={"VIDEO_ID"} />
 ```
 
-🗺️ MapView Integration
+### 🗺️ MapView Integration
 ```
 npm install react-native-maps
 ```
@@ -95,7 +95,7 @@ npm install react-native-maps
 
 
 
-🖼️ Image Zoom & Viewer
+### 🖼️ Image Zoom & Viewer
 ```
 npm install react-native-image-viewing
 ```
@@ -112,7 +112,7 @@ import ImageViewing from "react-native-image-viewing";
 />
 ```
 
-🧪 Running the App
+### 🧪 Running the App
 Start Metro Server
 ```
 npx react-native start
@@ -123,7 +123,7 @@ Launch on Emulator or Physical Device
 npx react-native run-android
 ```
 
-🧠 Developer Notes
+### 🧠 Developer Notes
 * All navigation flows are controlled by Stack.Navigator and Drawer.Navigator.
 
 * All screens are responsive and use ScrollView or FlatList for data rendering.
