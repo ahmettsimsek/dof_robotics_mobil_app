@@ -1,8 +1,24 @@
-# dof_robotics_mobil
-
 # DOF Robotics Mobile App – React Native
 
-This repository documents the development of a mobile application built for DOF Robotics using **React Native** and **Android Studio** as part of a software internship project conducted between **17–21 February 2025**.
+This repository documents the development of a mobile application built for DOF Robotics using **React Native** and **Android Studio** as part of a software internship project conducted
+
+# 🚀 Getting Started with React Native & Android Studio
+
+This mobile app was developed using **React Native CLI** (not Expo) and built/tested on **Android Studio Emulator**. Below is a full setup guide and the key packages used during development.
+
+---
+
+## 🔧 Environment Setup
+
+### 1. Install Prerequisites:
+- **Node.js** (v18+): https://nodejs.org
+- **Java Development Kit (JDK)** – Java 11 recommended
+- **Android Studio** with Android SDK and emulator
+- **React Native CLI** (not Expo)
+
+```bash
+npm install -g react-native-cli
+
 
 ## 📅 Weekly Progress Overview
 
